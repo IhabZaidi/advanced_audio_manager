@@ -134,13 +134,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "flutter_audio_manager_plus",
+      "name": "advanced_audio_manager",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-08-16T11:17:40.386920Z",
+  "generated": "2022-08-16T12:18:23.023286Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

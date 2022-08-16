@@ -1,7 +1,7 @@
-name: flutter_audio_manager_plus
-description: The flutter_audio_manager_plus listens to, gets and modifies audio input/output devices.
+name: advanced_audio_manager
+description: The advanced_audio_manager listens to, gets and modifies audio input/output devices.
 version: 0.0.1
-homepage: https://github.com/IhabZaidi/flutter_audio_manager_plus
+homepage: https://github.com/IhabZaidi/advanced_audio_manager
 
 environment:
     sdk: ">=2.12.0 <3.0.0"
