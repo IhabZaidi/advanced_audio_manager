@@ -98,4 +98,5 @@ class _MyAppState extends State<MyApp> {
 ```
 ## Credit
 this plugin is a continuation and improvement of flutter_audio_manager plugin.
+
 thanks to: letmaker.com
