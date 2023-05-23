@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_audio_manager.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_audio_manager'
+  s.name             = 'advanced_audio_manager'
   s.version          = '0.0.1'
   s.summary          = 'flutter audio manager'
   s.description      = <<-DESC
